@@ -1,1 +1,2 @@
 This repo demonstrates why git is useful!
+Trying out the editing stuff
